@@ -1,0 +1,140 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "3",
+      "title": "renu1"
+    },
+    {
+      "id": "4",
+      "title": "renu1"
+    },
+    {
+      "id": "5",
+      "title": "renu1"
+    },
+    {
+      "title": "renuNew",
+      "author": "renuNew1",
+      "id": "6"
+    },
+    {
+      "title": "renu4",
+      "id": "V6lH3Q7"
+    },
+    {
+      "title": "renu5",
+      "author": "renu5",
+      "id": "xf7BLKe"
+    },
+    {
+      "title": "renu6",
+      "author": "renu6",
+      "id": "mQcXQBp"
+    },
+    {
+      "title": "renu7",
+      "author": "renu7",
+      "id": "NG5eAtq"
+    },
+    {
+      "title": "renu",
+      "author": "",
+      "id": "m0XBbsF"
+    },
+    {
+      "title": "sdffds",
+      "author": "sdffds",
+      "id": "A8QQhP2"
+    },
+    {
+      "title": "test3",
+      "author": "test3",
+      "id": "5szzYrS"
+    },
+    {
+      "title": "test4",
+      "author": "",
+      "id": "TLnGs6i"
+    },
+    {
+      "title": "dsdfs",
+      "author": "ewewr",
+      "id": "0YkLVMC"
+    },
+    {
+      "title": "sdfdsf",
+      "author": "weewrw",
+      "id": "rv345Om"
+    },
+    {
+      "title": "sdfdsf",
+      "author": "weewrw",
+      "id": "M7O98M8"
+    },
+    {
+      "title": "renu3",
+      "author": "renu3",
+      "id": "enXcLaL"
+    },
+    {
+      "title": "renu3",
+      "author": "renu3",
+      "id": "ZfMz_X2"
+    },
+    {
+      "title": "dfs",
+      "author": "dsfdsf",
+      "id": "Y0DBOjS"
+    },
+    {
+      "title": "dfs1",
+      "author": "dsfdsf",
+      "id": "9~zXobV"
+    },
+    {
+      "title": "sample",
+      "author": "aut",
+      "id": "6yjoL2p"
+    },
+    {
+      "title": "sample1",
+      "author": "aut1",
+      "id": "KUymeq~"
+    },
+    {
+      "title": "sfdv",
+      "author": "cvxvc",
+      "id": "0ydUMIK"
+    },
+    {
+      "title": "sfdv",
+      "author": "cvxvc",
+      "id": "w67VCyI"
+    },
+    {
+      "title": "vcxdfgd",
+      "author": "fdgergre",
+      "id": "eP7xlwq"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
